@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-     <a href="#" alt="titulo do site"> Nome do Site</a>
+     Nome do Site
 </h1>
 
 <h4 align="left">
@@ -31,7 +31,7 @@ Este é um projeto de Back-end | Front-end | Full-Stack , desenvolvido no bootca
 
 EXEMPLO:
 
-- Projeto de um Sistema de Cinema, desenvolvido no bootcamp da Labenu. Têm como principais objetivos estudar e compreender : Diferença entre banco de dados relacionais e não relacionais ; MySQL ; Criação de Query.
+- Este é um projeto de Back-end , desenvolvido no bootcamp da Labenu, cujo o principal objetivo é estudar e compreender :  Diferença entre banco de dados relacionais e não relacionais ; MySQL ; Criação de Query.
 
 
 
