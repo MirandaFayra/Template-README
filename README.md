@@ -24,11 +24,11 @@ Escrever de forma sucinta sobre o que é o seu projeto. Por exemplo, se você es
 - PESSOA 3
 
 ---
-##  🔠 Conteúdos
+##  🔠Conteúdos
 
 <!--ts-->
    * [Sobre](#sobre)
-   * [Quem Faz](#quem-faz)
+   * [Quem Faz](#-quem-faz)
    * [Status](#status)
    * [Objetivo do Projeto](#objetivo-do-projeto)
    * [Requisitos de Funcionalidade](#requisitos-de-funcionalidade)
