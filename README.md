@@ -16,7 +16,7 @@ Escrever de forma sucinta sobre o que é o seu projeto. Por exemplo, se você es
 
 ---
 
-##  👩🏽 👨🏾 Quem Faz 
+##  👩🏽👨🏾Quem Faz 
 
 - ~~COLOCAR O NOME DAS PESSOAS AUTORAS DO PROJETO~~
 - PESSOA 1
@@ -40,7 +40,7 @@ Escrever de forma sucinta sobre o que é o seu projeto. Por exemplo, se você es
 
 
 ---
-##  🧭 Status do Projeto
+##  🧭Status do Projeto
 
 ~~COLOCAR AQUI O STATUS DO PROJETO. ALÉM DISSO, VOCÊ PODE COLOCAR QUAL PARTE VOCÊ ESTÁ DESENVOLVENDO (ESTILIZAÇÃO, RESPONSIVIDADE, ETC...)~~
 
@@ -50,7 +50,7 @@ Escrever de forma sucinta sobre o que é o seu projeto. Por exemplo, se você es
 
 ---
 
-##  🎯 Objetivo do Projeto
+##  🎯Objetivo do Projeto
 
 Este é um projeto de Back-end | Front-end | Full-Stack , desenvolvido no bootcamp da Labenu, cujo o principal objetivo é estudar e compreender : ~~COLOCAR AQUI QUAIS SÃO OS CONCEITOS  E TECNOLOGIAS QUE VOCÊ ESTAVA FOCADO EM ESTUDAR, AO REALIZAR ESSE PROJETO~~. 
 
@@ -60,7 +60,7 @@ Este é um projeto de Back-end | Front-end | Full-Stack , desenvolvido no bootca
 
 
 
-## ☑️  Requisitos de Funcionalidade
+## ☑️Requisitos de Funcionalidade
 
 - [x] Funcionalidade 1
 - [ ] Funcionalidade 2
@@ -72,7 +72,7 @@ Além das funcionalidades, aqui você pode por Prints e gifs do seu projeto, com
 
 ---
 
-## 💡 Concepção do Projeto
+## 💡Concepção do Projeto
 
 - **Wireframe do Projeto:** ~~COLOCAR AQUI O WIREFRAME "ESBOÇO" DO PROJETO~~
 - **Link do Figma:** ~~COLOCAR AQUI O LINK DO FIGMA | LINK DO ADOBE XD | LINK DO WIREFRAME (FRONT-END)~~
@@ -93,14 +93,14 @@ Para esse projeto são modelados três entidades : **Estudante (STUDENT), Profes
 
 ---
 
-## 🔗 Link para Acessar
+## 🔗Link para Acessar
 
 - **Link do Surge:** ~~COLOCAR AQUI O LINK DO SURGE~~
 
 ---
 
 
-## 🛰 Rodando o Projeto
+## 🛰Rodando o Projeto
 
 ~~EXPLICAR AQUI O PASSO A PASSO PARA CONSEGUIR RODAR E ACESSAR O PROJETO.~~
 
@@ -113,6 +113,6 @@ Para Rodar o projeto, siga as seguintes etapas :
 
 ---
 
-## 📝  Sobre a Licença
+## 📝Sobre a Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
