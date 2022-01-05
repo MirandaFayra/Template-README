@@ -10,7 +10,7 @@
 
 ---
 
-##  🕵  Sobre
+##  🕵Sobre
 
 Escrever de forma sucinta sobre o que é o seu projeto. Por exemplo, se você está fazendo uma Pokedéx pode escrever : Aplicação com intuito de criar uma pokedéx, site onde você pode ver os detalhes dos pokemóns e montar a sua equipe.
 
