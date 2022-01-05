@@ -16,7 +16,7 @@ Escrever de forma sucinta sobre o que é o seu projeto. Por exemplo, se você es
 
 ---
 
-##  👩🏽👨🏾Quem Faz 
+##  👩🏾Quem Faz 
 
 - ~~COLOCAR O NOME DAS PESSOAS AUTORAS DO PROJETO~~
 - PESSOA 1
