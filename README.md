@@ -44,9 +44,9 @@ Escrever de forma sucinta sobre o que é o seu projeto. Por exemplo, se você es
 
 ~~COLOCAR AQUI O STATUS DO PROJETO. ALÉM DISSO, VOCÊ PODE COLOCAR QUAL PARTE VOCÊ ESTÁ DESENVOLVENDO (ESTILIZAÇÃO, RESPONSIVIDADE, ETC...)~~
 
- ⏳ Fazendo
- 📥 Testando 
- ⌛ Feito
+ - ⏳ Fazendo
+ - 📥 Testando 
+ - ⌛ Feito
 
 ---
 
